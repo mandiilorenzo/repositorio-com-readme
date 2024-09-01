@@ -1,6 +1,8 @@
 # Projeto com Readme
 Um projeto de teste com um arquivo Readme. 🐱‍💻
 
+[<img src="./Animação-tela.gif" alt="gif da tela de screengif">]
+
 ## Tecnologias utilizadas
 - HTML
 - CSS
